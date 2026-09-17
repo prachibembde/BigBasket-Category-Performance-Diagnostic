@@ -63,7 +63,7 @@ The dashboard should contain:
 - Three-tier target-status colors
 - Four KPI cards: Total Revenue, Total Delivered Orders, Average Order Value, Categories Meeting Target
 - One visible filter affecting all dashboard worksheets
-
+https://public.tableau.com/app/profile/prachi.bembde/viz/BigBasketCategoryPerformanceDiagnostic_17896652391240/BigBasketCategoryPerformanceDiagnostic
 Data story: see `DATA_STORY.md`.
 
 ## Part 4 — Python/Pandas
